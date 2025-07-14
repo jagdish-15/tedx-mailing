@@ -45,7 +45,7 @@ for recipient in recipients:
         <li>⏳ Reach at least <strong>20 minutes early</strong> with a <strong>printout of your resume</strong>.</li>
         <li>Complete the <strong>registration</strong> with our team at the <strong>Library Reading Hall</strong>.</li>
         <li>You will be guided to the interview room when it’s your turn.</li>
-        <li>💻 If applicable (e.g., for Editorial or DnP roles), you may bring your <strong>laptop</strong> to showcase previous work.</li>
+        <li>💻 If applicable (e.g., for Technical or Editorial or DnP roles), you may bring your <strong>laptop</strong> to showcase previous work.</li>
         <li>🆔 <strong>Carry your College ID Card</strong> – it is mandatory.</li>
         <li>📚 <strong>Maintain decorum in the library</strong>. Any disruption may result in interview cancellation.</li>
         <li>🚫 <strong>No personal belongings</strong> will be allowed inside the interview room (except permitted items).</li>
@@ -53,7 +53,7 @@ for recipient in recipients:
 
       <h3>📞 For Queries, Contact:</h3>
       <ul>
-        <li>Abhijeet Thore – 94215 56115</li>
+        <li>Abhijeet Thore – +91 94215 56115</li>
         <li>Avani Thakur – +91 90211 56296</li>
         <li>Aarya Gandhe – +91 98609 45719</li>
         <li>Rudransh Joshi – +91 82377 11009</li>
