@@ -17,7 +17,7 @@ with open(filepath, 'r') as list:
 
 for recipient in recipients:
   try:
-    subject = "TEDxPVGCOET Interview Confirmation"
+    subject = "TEDxPVGCOET Interview Confirmation (test)"
     body = f"""
     <!DOCTYPE html>
     <html>
@@ -56,7 +56,7 @@ for recipient in recipients:
         <li>Abhijeet Thore – +91 94215 56115</li>
         <li>Avani Thakur – +91 90211 56296</li>
         <li>Aarya Gandhe – +91 98609 45719</li>
-        <li>Rudransh Joshi – +91 82377 11009</li>
+        <li>Varun Tammewar – +91 77199 01843</li>
       </ul>
 
       <p>Also, join our <strong>WhatsApp Interview Group</strong> here:<br>
