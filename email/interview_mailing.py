@@ -53,7 +53,7 @@ for recipient in recipients:
 
       <h3>📞 For Queries, Contact:</h3>
       <ul>
-        <li>Abhijeet Thore – +91 94215 56115</li>
+        <li>Abhijeet Thore – +91 70581 82571</li>
         <li>Avani Thakur – +91 90211 56296</li>
         <li>Aarya Gandhe – +91 98609 45719</li>
         <li>Varun Tammewar – +91 77199 01843</li>
