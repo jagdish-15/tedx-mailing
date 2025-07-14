@@ -29,7 +29,7 @@ for recipient in recipients:
 
       <p>🌟 <strong>Greetings from TEDxPVGCOET!</strong> 🌟</p>
 
-      <p>Hi <strong>{recipient['firstName'] + recipient['lastName']}</strong>,</p>
+      <p>Hi <strong>{recipient['firstName'] + " " + recipient['lastName']}</strong>,</p>
 
       <p>We are thrilled to inform you that after a thorough selection process, <strong>you have been shortlisted</strong> for an interview with <strong>TEDxPVGCOET</strong>!</p>
 
@@ -73,7 +73,7 @@ for recipient in recipients:
     </body>
     </html>
     """
-    print(f"Sending mail to {recipient['firstName'] + recipient['lastName']} ({recipient['email']})...")
+    print(f"Sending mail to {recipient['firstName'] + " " + recipient['lastName']} ({recipient['email']})...")
     this_time = send_email(recipient["email"], subject, body, password, attachment_paths)
     if this_time > 0:
       count += 1
