@@ -1,0 +1,50 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 28,
+    "domain": "Artificial Intelligence",
+    "organization": "OpenAI",
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "instagram": "https://www.instagram.com/johndoe",
+    "phone_number": "+91-9876543210",
+    "portfolio": "https://johndoe.dev",
+    "audience_impact": "My work in AI research emphasizes ethical practices and responsible development, which aligns with this year’s theme on conscious innovation."
+  },
+  {
+    "name": "Aarushi Sen",
+    "email": "aarushi.sen@example.com",
+    "age": 34,
+    "domain": "Sustainable Architecture",
+    "organization": "GreenBuild India",
+    "linkedin": "https://www.linkedin.com/in/aarushisen",
+    "instagram": "https://www.instagram.com/aarushi.arch",
+    "phone_number": "+91-9123456780",
+    "portfolio": "https://aarushisen.com",
+    "audience_impact": "My architectural designs center around sustainability and community impact, echoing the values of this year’s TEDx theme."
+  },
+  {
+    "name": "Kunga Gyalmo",
+    "email": "kungag@muwci.net",
+    "age": "17",
+    "domain": "Social Impact / Menstrual Equity / Education Policy",
+    "organization": "Mahindra United World College of India",
+    "linkedin": "https://www.linkedin.com/in/kunga-gyalmo-bb5551230/",
+    "instagram": "https://www.linkedin.com/in/kunga-gyalmo-bb5551230/  (I don't have an insta account)",
+    "phone_number": "+91 6006814735",
+    "portfolio": "https://docs.google.com/document/d/1sWXKQZ-77iXPcAjWBaB9PhqV3KZwp9pDNy_0HtA75WM/edit?usp=sharing",
+    "audience_impact": "My talk, “Dignity. Period.”, aims to shift how we see menstruation—from a private issue to a systemic failure. I’ll share real stories from girls in Ladakh and urban slums, explore the economic cost of period poverty, and show how education, dignity, and opportunity are deeply connected. I want the audience to walk away seeing menstrual equity as everyone’s issue—one we can fix through policy, compassion, and collective action."
+  },
+  {
+    "name": "Harsh Pandya",
+    "email": "pandyaharsh2012@gmail.com",
+    "age": "31",
+    "domain": "Harsh Pandya, Storyteller, Producer and Entrepreneur, Started his career in aeronautical engineering and made a bold leap into the world of filmmaking, navigating doubts and challenges along the way.   His story and talk emphasize the power of embracing change—whether it was adapting to new technologies like AI or shifting from technical precision to creative storytelling.   Along the way, he built a thriving production unit, learning that true success isn’t in reaching a final destination, but in the defining moments that shape our journeys, because it’s not just about the career path, but about how we adapt, evolve, and create along the way. • He started his journey as a radio Jockey along with pursuing aeronautical engineering before deciding to pursue his passion for content creation  •Despite initial setbacks, his unyielding determination and hunger for success propelled him into producing content for Television and later for digital platforms",
+    "organization": "Gopi Films Pvt Ltd",
+    "linkedin": "https://www.linkedin.com/in/harssh-pandya-65b18397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "instagram": "https://www.instagram.com/rjharsh04?igsh=YmQ3Y2VmMDF5YzM3&utm_source=qr",
+    "phone_number": "9004873313",
+    "portfolio": "https://youtube.com/@gopifilmspvtltd?si=Bxt7-Bc_beXPCBy6",
+    "audience_impact": "Harsh Pandya, Storyteller, Producer and Entrepreneur, Started my career in aeronautical engineering and made a bold leap into the world of filmmaking, navigating doubts and challenges along the way.   My story emphasise the power of embracing change, whether it was adapting to new technologies like AI or shifting from technical precision to creative storytelling.   Along the way, he built a thriving production unit, learning that true success isn’t in reaching a final destination, but in the defining moments that shape our journeys, because it’s not just about the career path, but about how we adapt, evolve, and create along the way. I started his journey as a radio Jockey along with pursuing aeronautical engineering before deciding to pursue his passion for content creation. Despite initial setbacks, his unyielding determination and hunger for success propelled him into producing content for Television and later for digital platforms"
+  }
+]

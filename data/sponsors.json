@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rohan Mehta",
+    "organization": "TechNova Pvt Ltd",
+    "designation": "Marketing Head",
+    "email": "rohan.mehta@technova.com",
+    "phone_number": "+91-9001234567",
+    "tier": "Title Sponsor",
+    "range": "10,000 to 20,000",
+    "link": "https://www.technova.com",
+    "expectations": "We believe in empowering the next generation of innovators, and TEDx provides a great platform to support bold ideas.",
+    "have_sponsored_before": "Yes"
+  },
+  {
+    "name": "Sneha Iyer",
+    "organization": "EcoBloom",
+    "designation": "Marketing Head",
+    "email": "sneha@ecobloom.org",
+    "phone_number": "+91-9821123456",
+    "tier": "Co-Sponsor",
+    "range": "10,000 to 20,000",
+    "link": "https://www.ecobloom.org",
+    "expectations": "TEDx aligns with our goal of raising awareness about sustainable living among the youth and changemakers.",
+    "have_sponsored_before": "Yes"
+  }
+]

@@ -1,0 +1,61 @@
+name: Live Registration Mailing
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify-subscriber:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'Add new subscriber')
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run Send Email Script
+        run: python email/notify_new_subscriber.py
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+
+  notify-speaker:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'Add new speaker')
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run Send Email Script
+        run: python email/notify_new_speaker.py
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+
+  notify-sponsors:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'Add new sponsor')
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run Send Email Script
+        run: python email/notify_new_sponsor.py
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
