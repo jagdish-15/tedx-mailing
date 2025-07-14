@@ -84,4 +84,4 @@ for recipient in recipients:
 print("Total IDs in the list:", len(recipients))
 print("Total mails sent:", count)
 print(f"Total time taken: {total_time:.2f} seconds")
-print(f"Average time taken per mail: {count / total_time} seconds")
+print(f"Average time taken per mail: {total_time / count} seconds")
