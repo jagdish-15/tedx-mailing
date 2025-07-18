@@ -56,7 +56,7 @@ for recipient in recipients:
     </html>
     """
     attachmentPath = os.path.abspath(
-      os.path.join(os.path.dirname(__file__), '..', 'attachments', f"{recipient['firstName']}_{recipient['lastName']}")
+      os.path.join(os.path.dirname(__file__), '..', 'attachments', f"{recipient['firstName']}_{recipient['lastName']}.jpg")
     )
     attachment_paths = [attachmentPath]
     print(f"Sending mail to {recipient['firstName'] + " " + recipient['lastName']} ({recipient['email']})...")
