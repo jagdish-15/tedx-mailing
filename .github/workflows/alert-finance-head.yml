@@ -1,0 +1,23 @@
+name: Alert Finance Head
+
+on:
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  send_emails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run Send Email Script
+        run: python email/notify_finance_head.py
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}

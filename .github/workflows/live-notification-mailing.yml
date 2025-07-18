@@ -42,6 +42,10 @@ jobs:
         env:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
 
+  notify-curation-head:
+    uses: ./.github/workflows/alert-curation-head.yml
+    if: contains(github.event.head_commit.message, 'Add new speaker')
+
   notify-sponsors:
     runs-on: ubuntu-latest
     if: contains(github.event.head_commit.message, 'Add new sponsor')
@@ -59,3 +63,7 @@ jobs:
         run: python email/notify_new_sponsor.py
         env:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+
+  notify-finance-head:
+    uses: ./.github/workflows/alert-finance-head.yml
+    if: contains(github.event.head_commit.message, 'Add new sponsor')

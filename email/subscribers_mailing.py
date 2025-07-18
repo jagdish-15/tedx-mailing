@@ -9,7 +9,7 @@ total_time = 0
 count = 0
 
 filepath = os.path.abspath(
-  os.path.join(os.path.dirname(__file__), '..', 'data', 'mailing_list.json')
+  os.path.join(os.path.dirname(__file__), '..', 'data', 'internal_team.json')
 )
 
 with open(filepath, 'r') as list:
@@ -17,7 +17,7 @@ with open(filepath, 'r') as list:
 
 for recipient in recipients:
   try:
-    subject = "Subject of the Mail"
+    subject = "This comes under the efforts of pulling the repo out of Coma"
     body = f"""
     <!DOCTYPE html>
     <html>
@@ -43,4 +43,4 @@ for recipient in recipients:
 print("Total IDs in the list:", len(recipients))
 print("Total mails sent:", count)
 print(f"Total time taken: {total_time:.2f} seconds")
-print(f"Average time taken per mail: {count / total_time} seconds")
+print(f"Average time taken per mail: {total_time / count} seconds")

@@ -17,7 +17,7 @@ with open(filepath, 'r') as list:
 
 for recipient in recipients:
   try:
-    subject = "TEDxPVGCOET Interview Confirmation (test)"
+    subject = "TEDxPVGCOET Interview Confirmation"
     body = f"""
     <!DOCTYPE html>
     <html>

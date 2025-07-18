@@ -1,29 +1,5 @@
 [
   {
-    "name": "John Doe",
-    "email": "john.doe@example.com",
-    "age": 28,
-    "domain": "Artificial Intelligence",
-    "organization": "OpenAI",
-    "linkedin": "https://www.linkedin.com/in/johndoe",
-    "instagram": "https://www.instagram.com/johndoe",
-    "phone_number": "+91-9876543210",
-    "portfolio": "https://johndoe.dev",
-    "audience_impact": "My work in AI research emphasizes ethical practices and responsible development, which aligns with this year’s theme on conscious innovation."
-  },
-  {
-    "name": "Aarushi Sen",
-    "email": "aarushi.sen@example.com",
-    "age": 34,
-    "domain": "Sustainable Architecture",
-    "organization": "GreenBuild India",
-    "linkedin": "https://www.linkedin.com/in/aarushisen",
-    "instagram": "https://www.instagram.com/aarushi.arch",
-    "phone_number": "+91-9123456780",
-    "portfolio": "https://aarushisen.com",
-    "audience_impact": "My architectural designs center around sustainability and community impact, echoing the values of this year’s TEDx theme."
-  },
-  {
     "name": "Kunga Gyalmo",
     "email": "kungag@muwci.net",
     "age": "17",
