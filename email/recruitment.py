@@ -26,6 +26,16 @@ for recipient in recipients:
     </head>
     <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
+      <!-- Top Banner (TEDxPVGCOET style) -->
+      <div style="background-color: #000; color: white; padding: 20px 30px; border-bottom: 4px solid #e62b1e;">
+        <div style="font-size: 28px; font-weight: bold;">
+          <span style="color: #e62b1e;">TED</span><span style="color: white;">x</span>PVGCOET
+        </div>
+        <div style="font-size: 12px; color: #ccc; margin-top: 4px;">
+          x = independently organized TED event
+        </div>
+      </div>
+
       <p>Dear <strong>{recipient['firstName']} {recipient['lastName']}</strong>,</p>
 
       <p>I am thrilled to extend my heartfelt congratulations on your selection to the <strong>TEDxPVGCOET</strong> team! 🌟 Your performance during the interview process demonstrated your passion, enthusiasm, and potential to make a significant impact.</p>
@@ -52,11 +62,14 @@ for recipient in recipients:
       Licensee & Organizer<br>
       TEDxPVGCOET</p>
 
+      <!-- Bottom Banner -->
+      <div style="height: 10px; background: linear-gradient(to right, #e62b1e, #000, #e62b1e); margin-top: 20px;"></div>
+
     </body>
     </html>
     """
     attachmentPath = os.path.abspath(
-      os.path.join(os.path.dirname(__file__), '..', 'attachments', f"{recipient['firstName']}_{recipient['lastName']}.jpg")
+      os.path.join(os.path.dirname(__file__), '..', 'attachments', f"{recipient['firstName']}_{recipient['lastName']}.pdf")
     )
     attachment_paths = [attachmentPath]
     print(f"Sending mail to {recipient['firstName'] + " " + recipient['lastName']} ({recipient['email']})...")
