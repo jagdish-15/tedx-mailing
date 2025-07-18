@@ -29,6 +29,7 @@ try:
         <span style="color: #e62b1e;">TED</span><span style="color: white;">x</span>PVGCOET
       </div>
       <div style="font-size: 12px; color: #ccc;">
+        <br>
         x = independently organized TED event
       </div>
     </div>
