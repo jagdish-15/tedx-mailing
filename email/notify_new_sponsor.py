@@ -23,16 +23,15 @@ try:
   </head>
   <body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #ffffff; color: #333;">
 
-    <!-- Top Banner (TEDxPVGCOET style) -->
-    <div style="background-color: #000; color: white; padding: 20px 30px; border-bottom: 4px solid #e62b1e; display: flex; align-items: center; justify-content: space-between;">
-      <div style="font-size: 28px; font-weight: bold;">
-        <span style="color: #e62b1e;">TED</span><span style="color: white;">x</span>PVGCOET
-      </div>
-      <div style="font-size: 12px; color: #ccc;">
-        <br>
-        x = independently organized TED event
-      </div>
+  <!-- Top Banner (TEDxPVGCOET style) -->
+  <div style="background-color: #000; color: white; padding: 20px 30px; border-bottom: 4px solid #e62b1e;">
+    <div style="font-size: 28px; font-weight: bold;">
+      <span style="color: #e62b1e;">TED</span><span style="color: white;">x</span>PVGCOET
     </div>
+    <div style="font-size: 12px; color: #ccc; margin-top: 4px;">
+      x = independently organized TED event
+    </div>
+  </div>
 
     <!-- Main Content -->
     <div style="padding: 40px 30px;">
