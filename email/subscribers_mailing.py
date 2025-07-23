@@ -3,7 +3,9 @@ import json
 import os
 
 password = os.environ.get("EMAIL_PASSWORD")
-attachment_paths = ["./Brochure.pdf"]
+attachment_paths = [os.path.abspath(
+  os.path.join(os.path.dirname(__file__), 'Brochure.pdf')
+)]
 
 total_time = 0
 count = 0
