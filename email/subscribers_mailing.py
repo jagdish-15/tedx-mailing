@@ -19,7 +19,7 @@ with open(filepath, 'r') as list:
 
 for recipient in recipients:
   try:
-    subject = "TEDxPVGCOET | Reaching Out for a Potential Collaboration (Suggest subject)"
+    subject = "TEDxPVGCOET | Asmita (Suggest subject)"
     body = f"""
     <!DOCTYPE html>
     <html>
@@ -40,7 +40,6 @@ for recipient in recipients:
       </div>
 
       <!-- Main Content -->
-      <p>Hello {recipient['name']}</p>
       
       <p>Hey Asmita Organic Farms team!</p>
 
