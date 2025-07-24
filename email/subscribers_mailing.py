@@ -72,7 +72,7 @@ for recipient in recipients:
 
         Excited to create inspiring experiences and performance-driven visions together!<br><br>
 
-        Best,<br><br>
+        Best,<br>
 
         Aarya Gandhe <br>
         Treasurer, Team TEDxPVGCOET
