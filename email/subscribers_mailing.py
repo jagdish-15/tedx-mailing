@@ -42,41 +42,39 @@ for recipient in recipients:
       <!-- Main Content -->
       <p>Hello {recipient['name']}</p>
       
-      <p>
-        Hey FitFeast team!<br><br>
+      <p>Hey Asmita Organic Farms team!</p>
 
-        Hope you're doing well! I'm Aarya Gandhe from TEDxPVGCOET, and we're hosting our flagship TEDx event on 13th September in Pune.<br><br>
+      <p>Hope you're doing well! I'm Aarya Gandhe from <strong>TEDxPVGCOET</strong>, and we're hosting our flagship TEDx event on <strong>13th September</strong> in Pune.</p>
 
-        <strong>Our Theme:</strong> "Drishti" represents how one person's vision can bring fresh insights and drive meaningful change.<br><br>
+      <p><strong>Our Theme: "Drishti"</strong> represents how one person's vision can bring fresh insights and drive meaningful change.</p>
 
-        <strong>Why you're perfect for this:</strong> Your brand embodies 'Drishti' perfectly - [Protein Bar Company] represents the vision of transforming how people fuel their bodies and minds through convenient, nutritious protein solutions that support active lifestyles. Your products reflect the transformative power of proper nutrition and the foresight to create fuel that empowers people to pursue their goals with sustained energy and focus. Great ideas, like great nutrition, provide the perfect foundation and stamina needed to pursue meaningful visions and inspire creative breakthroughs through peak physical and mental performance.<br><br>
+      <p><strong>Why you're perfect for this:</strong><br>
+      Your brand embodies 'Drishti' perfectly – Asmita Organic Farms represents the vision of reconnecting people with pure, natural nutrition through organic farming practices that honor both the earth and our bodies. Your rice crisps and energy bites reflect the transformative power of choosing clean, wholesome ingredients and the foresight to create nourishing snacks that fuel both physical vitality and mental clarity. Great ideas, like great organic nutrition, grow from authentic foundations – and your farm-fresh, energy-boosting treats provide the sustained focus and natural fuel needed to pursue meaningful visions and drive innovative breakthroughs.</p>
 
-        We are actively seeking partners to collaborate with us on this exciting journey. In return, we are pleased to offer your brand the following exclusive sponsorship benefits:<br><br>
+      <p>We are actively seeking partners to collaborate with us on this exciting journey. In return, we are pleased to offer your brand the following exclusive sponsorship benefits:</p>
 
-        <ul>
-          <li><strong>Enhanced Brand Visibility:</strong> Prominent logo placement throughout the event</li>
-          <li><strong>Media Coverage:</strong> Access to pre- and post-event promotions across our digital platforms</li>
-          <li><strong>On-Site Brand Showcase:</strong> Booths, banners, and product visibility at the venue</li>
-          <li><strong>Logo Integration:</strong> Featured on tickets, badges, flyers, and other event collaterals</li>
-          <li><strong>Access to Health-Conscious Audience:</strong> Connect with 500+ engineering students and professionals focused on fitness and performance</li>
-          <li><strong>Brand Feature in Event Newsletter:</strong> Reach 1000+ engaged subscribers including fitness enthusiasts</li>
-          <li><strong>Post-Event Analytics:</strong> Receive audience insights and engagement metrics to measure ROI</li>
-          <li><strong>Sponsor Spotlight:</strong> Long-term or title sponsors will receive a dedicated feature on our website, telling your brand's story.</li>
-        </ul>
+      <ul>
+        <li><strong>Enhanced Brand Visibility:</strong> Prominent logo placement throughout the event</li>
+        <li><strong>Media Coverage:</strong> Access to pre- and post-event promotions across our digital platforms</li>
+        <li><strong>On-Site Brand Showcase:</strong> Booths, banners, and product visibility at the venue</li>
+        <li><strong>Logo Integration:</strong> Featured on tickets, badges, flyers, and other event collaterals</li>
+        <li><strong>Brand Feature in Event Newsletter:</strong> Reach 1000+ engaged subscribers including wellness and sustainability enthusiasts</li>
+        <li><strong>Post-Event Analytics:</strong> Receive audience insights and engagement metrics to measure ROI</li>
+      </ul>
 
-        We're seeking select partners for performance nutrition collaborations - think protein bar sampling stations for sustained energy during our full-day event, exclusive discount vouchers for your protein collections, branded fitness accessories, or co-branded wellness kits that our health-conscious and performance-focused audience would genuinely appreciate.  <br><br>
+      <p><strong>Sponsor Spotlight:</strong> Long-term or title sponsors will receive a dedicated feature on our website, telling your brand's story.</p>
 
-        Quick 10-minute call to explore this? We can share our detailed partnership deck and discuss sponsorship packages that work best for both of us.<br><br>
+      <p>We're seeking select partners for organic wellness collaborations – think sampling stations featuring your rice crisps and energy bites, exclusive discount vouchers for your organic snack collections, and inclusion in our goodie bags to ensure all our attendees experience the purity and nourishment that makes Asmita Organic Farms special.</p>
 
-        Drop your contact or reach us at <a href="mailto:tedx@pvgcoet.ac.in">tedx@pvgcoet.ac.in</a><br><br>
+      <p><strong>Quick 10-minute call to explore this?</strong> We can share our detailed partnership deck and discuss sponsorship packages that work best for both of us.</p>
 
-        Excited to create inspiring experiences and performance-driven visions together!<br><br>
+      <p>Drop your contact or reach us at <a href="mailto:tedx@pvgcoet.ac.in">tedx@pvgcoet.ac.in</a></p>
 
-        Best,<br>
+      <p>Excited to create inspiring experiences and organically-driven visions together!</p>
 
-        Aarya Gandhe <br>
-        Treasurer, Team TEDxPVGCOET
-      </p>
+      <p>Best,<br>
+      Aarya Gandhe<br>
+      Treasurer, Team TEDxPVGCOET</p>
 
       <!-- Bottom Banner -->
       <div style="height: 10px; background: linear-gradient(to right, #e62b1e, #000, #e62b1e); margin-top: 20px;"></div>
